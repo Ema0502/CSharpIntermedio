@@ -16,5 +16,14 @@ namespace Presentacion
         {
             InitializeComponent();
         }
+
+        private void Btn_nuevo_Click(object sender, EventArgs e)
+        {
+            Txb_codigo.Text = "";
+            Txb_codigo.Enabled = true;
+            Txb_descripcion.Text = "";
+            Txb_descripcion.Enabled = true;
+            Txb_codigo.Focus();
+        }
     }
 }
