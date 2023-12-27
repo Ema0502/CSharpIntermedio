@@ -8,3 +8,4 @@ D:\SoyHenry - Cursada\Proyectos\Csharp Intermedio\Solucion_Csharp_Intermedio\Pre
 D:\SoyHenry - Cursada\Proyectos\Csharp Intermedio\Solucion_Csharp_Intermedio\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
 D:\SoyHenry - Cursada\Proyectos\Csharp Intermedio\Solucion_Csharp_Intermedio\Presentacion\obj\Debug\Presentacion.exe
 D:\SoyHenry - Cursada\Proyectos\Csharp Intermedio\Solucion_Csharp_Intermedio\Presentacion\obj\Debug\Presentacion.pdb
+D:\SoyHenry - Cursada\Proyectos\Csharp Intermedio\Solucion_Csharp_Intermedio\Presentacion\obj\Debug\Presentacion.Encuesta.resources
